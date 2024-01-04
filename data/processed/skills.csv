@@ -1,0 +1,34 @@
+name,description,skill_type,skill_id
+sql,"consultar, manipular, inserir e deletar, dados relacionais em banco de dados",hard,b749c69e-b26a-4423-a2df-5dff503f3c75
+mysql,sistema gerenciadores de banco de dados,hard,68a9ad44-bb20-4056-a572-b4632323ee69
+postgresql,sistema gerenciadores de banco de dados,hard,5c0cbdd0-2662-4d87-801f-6f939dc08eda
+uml,linguagem de modelagem unificar para modelar sistemas,hard,edc3fe63-ffd2-485c-9c5b-5caeb18fe1b4
+docker,software de virtualização de containers,hard,04c8c308-f832-42e2-855d-e463d73d31af
+big data,"conjunto de dados extremamente grande de grande variedade, velocidade e veracidade",hard,b805c44c-d060-489f-9efa-ed403def23d7
+python,linguagem de programação,hard,e3359f85-d778-4334-bdf0-362e678e0c0f
+pandas,biblioteca para manipulação e análise de dados,hard,483712be-b662-4d74-ab85-741b4a08eb64
+etl,"processo de extração, transformação e carregamento de dados em bancos de dados",hard,8a198bb5-bfff-412f-b419-90ad37304753
+data warehouse,armazenamento centralizdo de ados de uma organização para suporte à tomada de decisão,hard,7b91e30f-cc27-49c5-93ef-08e09e33b370
+programacao orientada ao objeto,"paradigma que organiza o código em objetos, entidades com atributos e métodos, promovendo encapsulamento, herança e polimorfismo",hard,8765ad4c-eec5-468f-91b1-20bf4eb831e0
+git,software de versionamento,hard,d80cf971-9c90-46a3-9d81-27895e6d3841
+github,plataforma de hospedagem de códifo-fonte,hard,a1715e55-fb33-46df-a7cf-d69205a07dff
+linux,linhas de comando do sistema operacional linux,hard,d48754af-b38d-413f-bfe1-23cbe758293e
+scrum,metodologia ágil para gerenciamento de projetos,hard,5627a9d5-5549-46fb-a700-c893629940c2
+kanaban,método para gerenciar o fluxo de trabalho com ênfase na entrega contínua,hard,f4c82752-848e-40fa-9280-b9d157736081
+programacao funcional,"paradigma que enfatiza funções puras, imutabilidade de dados e expressões lambda, proporcionando uma abordagem declarativa e evitando efeitos colaterais.",hard,823bf979-33fc-4c25-b102-259805793a5b
+numpy,biblioteca para computação numérica em Python,hard,40c39b41-def4-4918-a8a0-90c8f1ea95f3
+aws,serviços em nuvem da Amazon,hard,48f1f1ea-9014-4f34-b553-a44d6c029df4
+javascript,linguagem de programação,hard,d3d0c12d-8371-412a-8e45-8adae055a377
+typescript,superset da linguagem javascript para garantir tipagem rígida,hard,20d04b2f-ad99-4421-a29f-3f5ad6dbc7dd
+nestjs,framework back-end do javascript que usa o typescript,hard,a8312631-6612-43e6-a554-a486528bdbdd
+nextjs,framework da biblioteca react.js,hard,861bdfce-2cec-412f-8d9f-cf75c8024004
+reactjs,biblioteca javascript para componetização de elementos html e css,hard,28d2cac8-73fd-4614-89c3-5b4ce210f1dc
+css,folhas de estilo para o front-end,hard,8d556598-7c8e-45a1-bc11-eaf01f8d9ecd
+html,linguagem de marcação para estruturar páginas na web,hard,319da561-b71f-46c3-bae5-7de0c12940f6
+trabalho em equipe,"colaborar efetivamente em grupos, compartilhando conhecimentos e apoiando colegas",soft,4907f4b3-8815-4434-b810-738215db697f
+autodidatismo,"capacidade de aprender de forma independente, buscando conhecimento por conta própria",soft,8907b34d-c975-48b8-91d5-8e3e76af3e8b
+pontualidade,"capacidade de cumprir prazos e horários conforme combinado, responsabilidade com compromissos",soft,aaec60a5-4e53-43a6-afa9-242e5bac7fc3
+disciplina,"capacidade de aderir a uma abordagem estruturada e organizada no trabalho, mantendo o foco e a consistência",soft,7eab02b0-62a1-42dc-8a51-215138560763
+boa comunicação,"habilidade de se expressar de maneira clara e eficaz, facilitando a compreensão entre os membros da equipe",soft,9f9d9436-aacc-41bd-80d8-0af8e6315cb5
+curiosidade,"inclinação natural para explorar e buscar compreensão, demonstrando interesse ativo no aprendizado",soft,72695f7d-25ae-43ce-b818-e7aecd419dad
+adaptação,capacidade de ajustar-se e prosperar em ambientes diversos e em constante mudança,soft,dbdaecc5-a171-49b3-acf3-c40b4e5812ef
